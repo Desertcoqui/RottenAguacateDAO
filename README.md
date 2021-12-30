@@ -4,7 +4,7 @@
 <hr>
 
 
-<p>This was created with the buildingspace Tutorial</p>
+<p>This was created with the buildspace Tutorial</p>
 # buildspace x thirdweb - Build your own DAO with just Javascript
 
 
