@@ -14,7 +14,8 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 7rem;
+  color: rgb(208, 221, 195);
 }
 @media screen and (max-width: 768px) {
   h1 {
@@ -55,6 +56,9 @@ h1 {
   align-content: center;
   display: flex;
   text-align: center;
+}
+.landing h2 {
+  color: rgb(212, 209, 165);
 }
 
 .member-page > div {
@@ -117,7 +121,7 @@ h1 {
 button {
   cursor: pointer;
   background-color: #000;
-  color: #fff;
+  color: rgb(233, 110, 110);
   border: none;
   font-weight: bold;
   font-family: inherit;
